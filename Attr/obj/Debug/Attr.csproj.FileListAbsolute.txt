@@ -1,0 +1,9 @@
+C:\Users\Anastasiia\source\repos\Attributes\Attr\bin\Debug\Attr.exe.config
+C:\Users\Anastasiia\source\repos\Attributes\Attr\bin\Debug\Attr.exe
+C:\Users\Anastasiia\source\repos\Attributes\Attr\bin\Debug\Attr.pdb
+C:\Users\Anastasiia\source\repos\Attributes\Attr\obj\Debug\Attr.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\source\repos\Attributes\Attr\obj\Debug\Attr.exe
+C:\Users\Anastasiia\source\repos\Attributes\Attr\obj\Debug\Attr.pdb
+C:\Users\Anastasiia\source\repos\Attributes\Attr\obj\Debug\Attr.csprojResolveAssemblyReference.cache
+C:\Users\Anastasiia\source\repos\Attributes\Attr\bin\Debug\Attr.exe.CodeAnalysisLog.xml
+C:\Users\Anastasiia\source\repos\Attributes\Attr\bin\Debug\Attr.exe.lastcodeanalysissucceeded
